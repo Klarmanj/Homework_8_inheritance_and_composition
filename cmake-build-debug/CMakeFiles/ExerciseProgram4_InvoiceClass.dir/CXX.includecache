@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rockb/CLionProjects/ExerciseProgram4-InvoiceClass/CInvoicePersonDate.cpp
+CInvoicePersonDate.h
+C:/Users/rockb/CLionProjects/ExerciseProgram4-InvoiceClass/CInvoicePersonDate.h
+
+C:/Users/rockb/CLionProjects/ExerciseProgram4-InvoiceClass/CInvoicePersonDate.h
+Invoice.h
+C:/Users/rockb/CLionProjects/ExerciseProgram4-InvoiceClass/Invoice.h
+../personType/personType.h
+C:/Users/rockb/CLionProjects/personType/personType.h
+
+C:/Users/rockb/CLionProjects/ExerciseProgram4-InvoiceClass/Invoice.h
+iostream
+-
+string
+-
+
+C:/Users/rockb/CLionProjects/personType/personType.h
+string
+-
+
